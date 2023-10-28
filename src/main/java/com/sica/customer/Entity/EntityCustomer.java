@@ -1,4 +1,4 @@
-	package com.sica.customer.Entity;
+package com.sica.customer.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
